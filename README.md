@@ -27,3 +27,5 @@
 <h3>Finally enjoy the model and test it out.</h3>
 
 ![image (4)](https://github.com/912-Dinu-TeodorGabriel/signRecognition/assets/115081686/00a629ce-9dd9-48ff-b5d2-68b8e03acd04)
+
+<h3> Warning: please keep the folder "data" in the file, it can be empty</h3>
