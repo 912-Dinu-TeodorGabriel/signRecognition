@@ -1,7 +1,7 @@
 # Sign Rcognition
 <h2>Aplication overview</h2>
 
-<h3>This aplication is based on hand gesture recognition, you can train your own hand gesture, to be precised 5 sign via Tensorflow and the CNN that i created. For hand tracking i'm using Mediapipe and OpenCV for camera. Each sign, it take about 200 photos to train(see the data_example directory).</h3>
+<h3>This aplication is based on hand gesture recognition, you can train your own hand gesture, to be precised 5 sign via Tensorflow and the CNN that i created. For hand tracking i'm using Mediapipe and OpenCV for camera. Each sign takes about 200 photos to train(see the data_example directory).</h3>
 
 <h3>The meniu contains the gesutres from 1-5.</h3>
 
