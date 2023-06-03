@@ -17,7 +17,7 @@
 ![image (1)](https://github.com/912-Dinu-TeodorGabriel/signRecognition/assets/115081686/63e4b2e0-0915-4fef-803e-28153edd3803)
 
 
-<h3>When all the checkboxes are registered you can choose to train the model and it wll takes about 2-3 minutes.</h3>
+<h3>When all the checkboxes are registered you can choose to train the model and it will take about 2-3 minutes.</h3>
 
 ![Captură de ecran 2023-06-03 140743](https://github.com/912-Dinu-TeodorGabriel/signRecognition/assets/115081686/a9787882-865b-4fd4-9117-d23289504b7b)
 
